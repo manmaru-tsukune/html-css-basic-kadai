@@ -1,13 +1,14 @@
+/* フォントサイズ*/
+html {
+  font-size: 20px;
+}
+
 /* 全体共通 */
 body {
   font-family: "Arial", "Meiryo", sans-serif;
   text-align: center;
 }
 
-/* フォントサイズ*/
-html {
-  font-size: 20px;
-}
 
 /* 色クラス */
 .blue {
